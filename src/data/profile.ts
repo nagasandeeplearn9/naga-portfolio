@@ -15,7 +15,7 @@ export const profile: Profile = {
   ],
   socials: [
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/nagasandeepmetla', icon: 'linkedin' },
-    { label: 'Email', url: 'mailto:Nagasandeepmetla09@outlook.com', icon: 'email' },
+    { label: 'Email', url: 'mailto:nagasandeepmetla09@outlook.com', icon: 'email' },
     // Add your GitHub when ready:
     // { label: 'GitHub', url: 'https://github.com/<username>', icon: 'github' },
   ],
